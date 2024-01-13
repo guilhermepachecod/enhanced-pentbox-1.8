@@ -26,7 +26,7 @@ I'm excited to share the recent improvements I've made to Pentbox, turning it in
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/pentbox.git
+   git clone https://github.com/guilhermepachecod/enhanced-pentbox-1.8.git
    ```
 
 2. **Navigate to the Pentbox Directory:**
